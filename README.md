@@ -1,1 +1,1 @@
-# text_helper
+Хелпер для CodeIgniter 2.x
